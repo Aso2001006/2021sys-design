@@ -1,7 +1,6 @@
-```
+```uml
 @startuml
 start
-
 ：体力＝１０;
 
 if(体力<=20)then(true)
